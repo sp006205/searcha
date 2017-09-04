@@ -1,0 +1,7 @@
+.footbar {
+    float : left;
+    width : 100%;
+    weight : 10%;
+    position : relative;
+    background-color: blue;
+}

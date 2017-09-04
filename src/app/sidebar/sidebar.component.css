@@ -1,0 +1,9 @@
+.sidebar {
+    width : 20%;
+    height: 1200px;
+    float : left;
+    background-color: gray;
+    text-align: left;
+    /*position : relative;*/
+    
+}
